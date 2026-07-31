@@ -211,6 +211,10 @@ Cristian Bermudez Serna says:
 
 Mikael Jacobsson (leochingkwake@gmail.com) has volunteered to translate the book to Swedish.
 
+## Tamil
+
+TamilNeram team has completed Tamil translation of this book. The e-book version `மலைப்பாம்புக்கடி`(*Malaippambukkadi*) is available at [https://TamilNeram.github.io](https://TamilNeram.github.io) homepage as well as at [https://TACE16.github.io/PyBy](https://TACE16.github.io/PyBy). To contact the TamilNeram team, please send an email to TamilNeram247@gmail.com.
+
 ## Turkish
 
 Türker SEZER (tsezer@btturk.net) and Bugra Cakir (bugracakir@gmail.com) have volunteered to translate the book to Turkish. "Where is Turkish version? Bitse de okusak."
